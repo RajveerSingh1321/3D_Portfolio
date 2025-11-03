@@ -419,7 +419,7 @@ export const projects = [
     ],
     category: "web app",
     github: "http://github.com/RajveerSingh1321/3D_Portfolio",
-    webapp: "https://threejs-portfolio.vercel.app",
+    webapp: "https://threejs-portfolio-rajveer.vercel.app",
   },
    {
     id: 2,
